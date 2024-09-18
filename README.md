@@ -20,3 +20,5 @@ Requirements
 
 Windows operating system: This program is designed to work on Windows.
 Python: If you want to modify the source code, you'll need Python installed on your system.
+
+![image](https://github.com/user-attachments/assets/5aca1c55-10c9-46e6-b2ad-381fd9bd15a1)
